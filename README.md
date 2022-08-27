@@ -1,5 +1,5 @@
 # plot_summary_webscraper
-While finishing up the video player I made to play the show "The Office", I found myself navigating through the same webpages, copying text, and then formatting it correctly to create the tooltip description for each episode. 
+While finishing up the video player I made to play the show "The Office" (https://github.com/BenTheurich/VideoPlayer) I found myself navigating through the same webpages, copying text, and then formatting it correctly to create the tooltip description for each episode. 
 
 After I got halfway done, I realized "I'm a software engineer doing a summer internship in test *automation*! Why on earth am I sitting here doing a repetitive tasK?"
 
